@@ -1,2 +1,0 @@
-# jitu
-Learning purpose

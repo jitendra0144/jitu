@@ -1,2 +1,0 @@
-this is developer2
-Hello world
