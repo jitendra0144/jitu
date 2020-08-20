@@ -1,0 +1,7 @@
+com\jitu\demo\controller\MyController.class
+com\jitu\demo\model\Stock.class
+com\jitu\demo\dao\StockRepoCustom.class
+com\jitu\demo\StockInvetoryApplication.class
+com\jitu\demo\dao\StockRepoImpl.class
+com\jitu\demo\service\StockService.class
+com\jitu\demo\dao\StockRepo.class

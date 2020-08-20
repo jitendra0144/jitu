@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jitu.demo.StockInvetoryApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.406 s - in com.jitu.demo.StockInvetoryApplicationTests
